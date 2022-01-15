@@ -13,7 +13,7 @@ This project is a Blazor WebAssembly.
 Project is created with:
 * .NET 6 
 * CORE WebAssembly 6.0.1
-* [Blazored.LocalStorage]: https://github.com/Blazored/LocalStorage 4.1.5
+* [Blazored.LocalStorage](https://github.com/Blazored/LocalStorage)
 	
 ## Setup
 To run this project, run it with IIS Express or dotnet watch
